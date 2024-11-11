@@ -1,0 +1,10 @@
+{
+    "nodes": ["A", "B", "C", "D"],
+    "links": [
+      {"source": "A", "target": "B", "distance": 30},
+      {"source": "A", "target": "C", "distance": 40},
+      {"source": "B", "target": "D", "distance": 20},
+      {"source": "C", "target": "D", "distance": 35}
+    ]
+  }
+  

@@ -1,0 +1,6 @@
+arcade==2.6.3
+gym==0.26.2
+networkx==2.6.3
+numpy==1.23.3
+torch==1.12.1
+pytest==7.1.2
